@@ -1,0 +1,23 @@
+.titleContainer {
+    min-height: 10vh;
+}
+
+h1 {
+    text-align: center; 
+}
+
+.container {
+    min-height: 90vh;
+}
+
+#chatContainer {
+    min-height: 90vh;
+}
+
+.mensaje {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ff8484;
+}
